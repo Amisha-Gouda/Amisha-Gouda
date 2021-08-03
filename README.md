@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amisha Gouda</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate coder and a web-developer enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha-gouda&label=Profile%20views&color=0e75b6&style=flat" alt="amisha-gouda" /> </p>
 
 - 🌱 I’m currently learning **front-end development**
+
+- I am currently doing internship in **Spark Foundation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amisha-Gouda](https://github.com/Amisha-Gouda)
 
